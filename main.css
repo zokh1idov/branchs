@@ -133,3 +133,126 @@ nav .nav_btn {
   font-weight: 600;
   cursor: pointer;
 }
+
+
+
+
+
+
+
+.s-1 .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+.s-1 .s-1_left {
+  width: 550px;
+  height: 400px;
+}
+
+.s-1_left img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.s-1 .s-1_right {
+  width: 550px;
+}
+
+.s-1_right h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: orange;
+}
+
+.s-1_right p {
+  font-size: 16px;
+  font-weight: 400;
+  color: gray;
+  padding: 30px 0px;
+}
+
+.s-1_right .s-1_btns {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.s-1_btns button {
+  padding: 20px 40px;
+  color: white;
+  background-color: orange;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.s-2 .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+
+.s-2 .s-2_left {
+  width: 550px;
+  height: 400px;
+}
+
+.s-2_left img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.s-2 .s-2_right {
+  width: 550px;
+}
+
+.s-2_right h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #E1924F;
+}
+
+.s-2_right p {
+  font-size: 16px;
+  font-weight: 400;
+  color: gray;
+  padding: 30px 0px;
+}
+
+.s-2_right .s-1_btns {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.s-2_btns button {
+  padding: 13px 30px;
+  color: white;
+  background-color: #E1924F;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+}
